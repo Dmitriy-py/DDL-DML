@@ -53,3 +53,9 @@ customer         | customer_id
 
 Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.
 
+##  Ответ:
+
+![Снимок экрана (1152)](https://github.com/user-attachments/assets/c150cfdb-5182-4dc6-87d3-0a48f2907652)
+
+![Снимок экрана (1153)](https://github.com/user-attachments/assets/8d7fd628-4edb-4dbb-ad59-06fe720da0a1)
+
