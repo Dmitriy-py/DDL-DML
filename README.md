@@ -34,3 +34,15 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![Снимок экрана (1148)](https://github.com/user-attachments/assets/33f0837a-c6c5-455c-9eee-47ac2c9acf31)
 
 ![Снимок экрана (1149)](https://github.com/user-attachments/assets/25ce0458-7a60-4085-ae19-20341d8cd8c6)
+
+
+Задание 2
+Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
+
+Название таблицы | Название первичного ключа
+customer         | customer_id
+
+##  Ответ:
+
+![Снимок экрана (1151)](https://github.com/user-attachments/assets/242d6ea9-4f40-47d2-8fb7-d5a77409b472)
+
